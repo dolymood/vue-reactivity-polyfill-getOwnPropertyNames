@@ -1,0 +1,12 @@
+{
+  "name": "vue-reactivity-polyfill-getOwnPropertyNames",
+  "version": "0.0.1",
+  "description": "Vue 3 reactivity polyfill Object.getOwnPropertyNames",
+  "main": "index.js",
+  "sideEffects": true,
+  "author": "dolymood",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
