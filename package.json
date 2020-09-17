@@ -1,6 +1,6 @@
 {
   "name": "vue-reactivity-polyfill-getownpropertynames",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue 3 reactivity polyfill Object.getOwnPropertyNames",
   "main": "index.js",
   "sideEffects": true,
