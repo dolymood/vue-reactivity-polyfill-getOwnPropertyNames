@@ -1,3 +1,5 @@
+require('core-js/es/symbol')
+
 var nativeGetOwnPropertyNames = Object.getOwnPropertyNames
 
 function getOwnPropertyNames (o) {

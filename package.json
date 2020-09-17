@@ -8,5 +8,11 @@
   "license": "MIT",
   "files": [
     "index.js"
-  ]
+  ],
+  "peerDependencies": {
+    "core-js": "^3.6.5"
+  },
+  "devDependencies": {
+    "core-js": "^3.6.5"
+  }
 }
